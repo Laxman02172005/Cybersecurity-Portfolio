@@ -11,8 +11,10 @@ Welcome to my professional cybersecurity portfolio. This repository includes han
 |------|-------------|
 | [`Redhat_Cybersecurity_Internship_Report.pdf`](./Redhat_Cybersecurity_Internship_Report.pdf) | Hands-on work during my internship, focusing on network and web application security. |
 | [`Cybersecurity_Threats_Research_Report.pdf`](./Cybersecurity_Threats_Research_Report.pdf) | Comprehensive analysis of major network threats and cybersecurity best practices. |
-| [`network_security.md`](./network_security.md) | Markdown summary of the internship tasks and tools used. |
-| [`threat_research.md`](./threat_research.md) | Markdown summary of cybersecurity threat research and defensive strategies. |
+| [`Linux_File_Permissions_Project.pdf`](./Linux_File_Permissions_Project.pdf) | Full report on Linux file and directory permission management. |
+| [`Redhat_Cybersecurity_Internship_Report.md`](./Redhat_Cybersecurity_Internship_Report.md) | Markdown summary of the internship tasks and tools used. |
+| [`Cybersecurity_Threats_Research_Report.md`](./Cybersecurity_Threats_Research_Report.md) | Markdown summary of cybersecurity threat research and defensive strategies. |
+| [`Linux_File_Permissions_Project.md`](./Linux_File_Permissions_Project.md) | Markdown summary of Linux file and directory permission project. |
 
 ---
 
@@ -24,16 +26,17 @@ Welcome to my professional cybersecurity portfolio. This repository includes han
 - Secure Network Configuration
 - Incident Documentation & Reporting
 - Technical Communication (PDF + Markdown)
-- Tools: Wireshark, OWASP ZAP, WebGoat, Windows Defender Firewall
+- Linux System Hardening (Permissions)
 
 ---
 
 ## 🌐 Tools & Platforms Used
 
-- **Wireshark**: Packet analysis & traffic inspection  
-- **OWASP ZAP**: Web vulnerability scanning  
-- **WebGoat**: Deliberately vulnerable web application for security testing  
-- **GitHub**: Version control and portfolio hosting
+- **Wireshark** – Packet analysis & traffic inspection  
+- **OWASP ZAP** – Web vulnerability scanning  
+- **WebGoat** – Deliberately vulnerable web application for security testing  
+- **Linux CLI** – File system security and permissions  
+- **GitHub** – Version control and portfolio hosting
 
 ---
 
