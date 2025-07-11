@@ -2,7 +2,7 @@
 
 **Author:** Mudapaka Sailaxman  
 **Date:** 11 June 2025  
-**Report:** [linux_file_permissions_project.pdf](./linux_file_permissions_project.pdf)
+**Report:** [Linux_File_Permissions_Project.pdf](./Linux_File_Permissions_Project.pdf)
 
 ---
 
