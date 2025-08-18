@@ -15,7 +15,9 @@ Welcome to my professional cybersecurity portfolio. This repository includes han
 | [`Redhat_Cybersecurity_Internship_Report.md`](./Redhat_Cybersecurity_Internship_Report.md) | Markdown summary of the internship tasks and tools used. |
 | [`Cybersecurity_Threats_Research_Report.md`](./Cybersecurity_Threats_Research_Report.md) | Markdown summary of cybersecurity threat research and defensive strategies. |
 | [`Linux_File_Permissions_Project.md`](./Linux_File_Permissions_Project.md) | Markdown summary of Linux file and directory permission project. |
-
+| [`sql_log_analysis.pdf`](./sql_log_analysis.pdf) | SQL queries for analyzing login attempts and employee data to support cybersecurity investigations and updates. |
+| [`sql_log_analysis.md`](./sql_log_analysis.md) | markdown file of sql_log_analysis. |
+ 
 ---
 
 ## 🧠 Skills Demonstrated
@@ -27,7 +29,7 @@ Welcome to my professional cybersecurity portfolio. This repository includes han
 - Incident Documentation & Reporting
 - Technical Communication (PDF + Markdown)
 - Linux System Hardening (Permissions)
-
+- SQL for Security Investigations 
 ---
 
 ## 🌐 Tools & Platforms Used
@@ -37,7 +39,7 @@ Welcome to my professional cybersecurity portfolio. This repository includes han
 - **WebGoat** – Deliberately vulnerable web application for security testing  
 - **Linux CLI** – File system security and permissions  
 - **GitHub** – Version control and portfolio hosting
-
+- **SQL** (Structured Query Language)
 ---
 
 ## 🎯 Objective
