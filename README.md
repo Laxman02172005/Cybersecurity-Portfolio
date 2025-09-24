@@ -19,6 +19,8 @@ Welcome to my professional cybersecurity portfolio. This repository includes han
 | [`sql_log_analysis.md`](./sql_log_analysis.md) | markdown file of sql_log_analysis. |
 | [`Pentest_Report_Nmap.md`](./Pentest_Report_Nmap.md) | Markdown of Pentest_Report_Nmap. |
 | [`Pentest_Report_Nmap.pdf`](./Pentest_Report_Nmap.pdf) | Performed a penetration test using Nmap to discover services, detect vulnerabilities, and provide risk-based remediation recommendations. |
+| [`Penetration_Testing_Report.pdf`](./Penetration_Testing_Report.pdf) | Conducted vulnerability test of 2 machines. |
+| [`Penetration_Testing_Report.md`](./Penetration_Testing_Report.md) | Prenetration_Testing_Report Readme |
  
 ---
 
@@ -44,6 +46,7 @@ Welcome to my professional cybersecurity portfolio. This repository includes han
 - **GitHub** – Version control and portfolio hosting
 - **SQL** (Structured Query Language)
 - **NMAP** - Network Mapping
+- **Gobuster** - Webpage bruteforce
 ---
 
 ## 🎯 Objective
