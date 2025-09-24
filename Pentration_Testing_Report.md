@@ -187,3 +187,6 @@ run
 - **License:** MIT (add a `LICENSE` file if you want others to reuse non-sensitive parts)  
 - **Contact:** Add your email or LinkedIn (if you want to be contacted about the repo).  
   - Example: `mailto:your.email@example.com` or `https://www.linkedin.com/in/your-linkedin/`
+ 
+For Report
+[Download Full Report (PDF)](./Penetration_Testing_Report.pdf)
