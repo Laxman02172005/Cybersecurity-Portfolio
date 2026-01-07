@@ -107,4 +107,4 @@ To explore common web vulnerabilities using real-world testing tools and scenari
 
 This internship reinforced my understanding of how real systems are attacked and defended. I developed skills in threat detection, secure configuration, and vulnerability testing. The documentation of findings and recommendations built my technical communication capabilities as well.
 
-> 📎 _For full screenshots, test results, and configuration details, refer to the [PDF report](./Redhat_Cybersecurity_Internship_Report.pdf)._
+> 📎 _For full screenshots, test results, and configuration details, refer to the [PDF report](./Internships/Network_and_Web_Security_Fundamentals_Report.pdf)._
