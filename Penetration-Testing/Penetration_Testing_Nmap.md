@@ -42,6 +42,6 @@ The goal of the project was to showcase how a security analyst can leverage Nmap
 
 ## 📄 Full Report  
 
-👉 [Download Full Report (PDF)](./Pentest_Report_Nmap.pdf)  
+👉 [Download Full Report (PDF)](./Penetration_Testing_Nmap.pdf)  
 
 ---
