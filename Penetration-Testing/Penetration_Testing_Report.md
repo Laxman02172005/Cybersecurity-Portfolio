@@ -166,27 +166,3 @@ run
 
 ---
 
-## Repository structure (suggested)
-```
-.
-├── README.md                      # this file
-├── Penetration_Testing_Report.pdf  # full report & screenshots (redacted if public)
-├── commands/                       # plaintext commands & session logs (redacted)
-│   ├── nmap_targets.md
-│   ├── metasploit_notes.md
-│   └── nikto_gobuster.md
-├── scripts/                        # any helper scripts (nmap wrappers, enumerators)
-├── screenshots/                    # screenshots (named, redacted if needed)
-├── mitigation/                     # sample remediation configs (apache.conf snippets, samba.conf snippets)
-└── LICENSE
-```
-
----
-
-## License & Contact
-- **License:** MIT (add a `LICENSE` file if you want others to reuse non-sensitive parts)  
-- **Contact:** Add your email or LinkedIn (if you want to be contacted about the repo).  
-  - Example: `mailto:your.email@example.com` or `https://www.linkedin.com/in/your-linkedin/`
- 
-For Report
-[Download Full Report (PDF)](./Penetration_Testing_Report.pdf)
