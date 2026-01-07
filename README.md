@@ -10,17 +10,17 @@ Welcome to my professional cybersecurity portfolio. This repository includes han
 | File | Description |
 |------|-------------|
 | [`Network_and_Web_Security_Fundamentals_Report.pdf`](./Internships/Network_and_Web_Security_Fundamentals_Report.pdf) | Hands-on work during my internship, focusing on network and web application security. |
-| [`Cybersecurity_Threats_Research_Report.pdf`](./Cybersecurity_Threats_Research_Report.pdf) | Comprehensive analysis of major network threats and cybersecurity best practices. |
-| [`Linux_File_Permissions_Project.pdf`](./Linux_File_Permissions_Project.pdf) | Full report on Linux file and directory permission management. |
+| [`Cybersecurity_Threats_Research_Report.pdf`](./Research/Cybersecurity_Threats_Research_Report.pdf) | Comprehensive analysis of major network threats and cybersecurity best practices. |
+| [`Linux_File_Permissions_Project.pdf`](./Linux?Linux_File_Permissions_Project.pdf) | Full report on Linux file and directory permission management. |
 | [`Network_and_Web_Security_Fundamentals_Report.md`](./Internships/Network_and_Web_Security_Fundamentals_Report.md) | Markdown summary of the internship tasks and tools used. |
-| [`Cybersecurity_Threats_Research_Report.md`](./Cybersecurity_Threats_Research_Report.md) | Markdown summary of cybersecurity threat research and defensive strategies. |
-| [`Linux_File_Permissions_Project.md`](./Linux_File_Permissions_Project.md) | Markdown summary of Linux file and directory permission project. |
-| [`sql_log_analysis.pdf`](./sql_log_analysis.pdf) | SQL queries for analyzing login attempts and employee data to support cybersecurity investigations and updates. |
-| [`sql_log_analysis.md`](./sql_log_analysis.md) | markdown file of sql_log_analysis. |
+| [`Cybersecurity_Threats_Research_Report.md`](./Research/Cybersecurity_Threats_Research_Report.md) | Markdown summary of cybersecurity threat research and defensive strategies. |
+| [`Linux_File_Permissions_Project.md`](./Linux/Linux_File_Permissions_Project.md) | Markdown summary of Linux file and directory permission project. |
+| [`Sql_Log_Analysis.pdf`](./SQL/Sql_Log_Analysis.pdf) | SQL queries for analyzing login attempts and employee data to support cybersecurity investigations and updates. |
+| [`ql_Log_Analysis.md`](./SQL/ql_Log_Analysis.md) | markdown file of sql_log_analysis. |
 | [`Pentest_Report_Nmap.md`](./Pentest_Report_Nmap.md) | Markdown of Pentest_Report_Nmap. |
 | [`Pentest_Report_Nmap.pdf`](./Pentest_Report_Nmap.pdf) | Performed a penetration test using Nmap to discover services, detect vulnerabilities, and provide risk-based remediation recommendations. |
-| [`Penetration_Testing_Report.pdf`](./Penetration_Testing_Report.pdf) | Conducted vulnerability test of 2 machines. |
-| [`Penetration_Testing_Report.md`](./Penetration_Testing_Report.md) | Prenetration_Testing_Report Readme |
+| [`Penetration_Testing_Report.pdf`](./Penetration-Testing/Penetration_Testing_Report.pdf) | Conducted vulnerability test of 2 machines. |
+| [`Penetration_Testing_Report.md`](./Penetration-Testing/Penetration_Testing_Report.md) | Prenetration_Testing_Report Readme |
  
 ---
 
