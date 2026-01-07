@@ -35,6 +35,6 @@ Through this project, I showcased the ability to translate **business and securi
 
 ## 📄 Full Report  
 
-👉 [Download Full Report (PDF)](./sql_log_analysis.pdf)  
+👉 [Download Full Report (PDF)](./Sql_Log_Analysis.pdf)  
 
 ---
